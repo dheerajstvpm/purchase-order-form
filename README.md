@@ -1,5 +1,7 @@
 # PurchaseOrderForm
 
+This is a MEAN stack project that helps in generation of purchase orders for vendors. A unique order number is created when ever a new order is created. The admin can edit these purchase order from admin panel.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
 
 ## Development server
